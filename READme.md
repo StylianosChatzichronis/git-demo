@@ -2,7 +2,6 @@
 
 This is the first file repo.
 
-##Ipsum Below
-It is the second step where I put a text
+## Website contents
 
-more ipsummm
+1. index.html
